@@ -1,0 +1,9 @@
+{
+  "algorithm": "ML-KEM-512",
+  "secret_agreement": true,
+  "HKDF_key_agreement": true,
+  "CAALC_roundtrip": true,
+  "public_key_bytes": 800,
+  "ciphertext_bytes": 768,
+  "endpoint_authenticated": false
+}

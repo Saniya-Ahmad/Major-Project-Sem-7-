@@ -1,0 +1,8402 @@
+[
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 0,
+    "enc_us": 9.372,
+    "dec_us": 9.441
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 1,
+    "enc_us": 9.451,
+    "dec_us": 9.697
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 2,
+    "enc_us": 9.393,
+    "dec_us": 9.197
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 3,
+    "enc_us": 9.211,
+    "dec_us": 9.393
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 4,
+    "enc_us": 9.178,
+    "dec_us": 9.331
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 5,
+    "enc_us": 9.556,
+    "dec_us": 9.261
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 6,
+    "enc_us": 9.532,
+    "dec_us": 9.589
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 7,
+    "enc_us": 10.36,
+    "dec_us": 9.329
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 8,
+    "enc_us": 9.459,
+    "dec_us": 9.228
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 9,
+    "enc_us": 9.436,
+    "dec_us": 9.255
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 10,
+    "enc_us": 9.159,
+    "dec_us": 9.267
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 11,
+    "enc_us": 9.509,
+    "dec_us": 9.312
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 12,
+    "enc_us": 9.248,
+    "dec_us": 9.242
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 13,
+    "enc_us": 88.512,
+    "dec_us": 11.521
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 14,
+    "enc_us": 9.28,
+    "dec_us": 9.419
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 15,
+    "enc_us": 9.311,
+    "dec_us": 9.174
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 16,
+    "enc_us": 9.338,
+    "dec_us": 9.296
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 17,
+    "enc_us": 9.11,
+    "dec_us": 9.284
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 18,
+    "enc_us": 9.42,
+    "dec_us": 9.282
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 19,
+    "enc_us": 9.361,
+    "dec_us": 9.288
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 20,
+    "enc_us": 9.348,
+    "dec_us": 9.266
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 21,
+    "enc_us": 9.56,
+    "dec_us": 9.386
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 22,
+    "enc_us": 9.216,
+    "dec_us": 9.187
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 23,
+    "enc_us": 9.381,
+    "dec_us": 76.397
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 24,
+    "enc_us": 10.765,
+    "dec_us": 9.373
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 25,
+    "enc_us": 15.222,
+    "dec_us": 96.606
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 26,
+    "enc_us": 10.281,
+    "dec_us": 9.271
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 27,
+    "enc_us": 9.139,
+    "dec_us": 9.249
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 28,
+    "enc_us": 128.551,
+    "dec_us": 10.325
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 29,
+    "enc_us": 9.268,
+    "dec_us": 9.108
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 30,
+    "enc_us": 9.141,
+    "dec_us": 9.114
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 31,
+    "enc_us": 9.07,
+    "dec_us": 9.121
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 32,
+    "enc_us": 9.096,
+    "dec_us": 9.097
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 33,
+    "enc_us": 26.898,
+    "dec_us": 9.753
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 34,
+    "enc_us": 9.439,
+    "dec_us": 9.057
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 35,
+    "enc_us": 9.42,
+    "dec_us": 9.297
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 36,
+    "enc_us": 9.186,
+    "dec_us": 9.157
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 37,
+    "enc_us": 9.133,
+    "dec_us": 9.142
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 38,
+    "enc_us": 9.219,
+    "dec_us": 9.347
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 39,
+    "enc_us": 9.293,
+    "dec_us": 10.209
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 40,
+    "enc_us": 9.161,
+    "dec_us": 9.17
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 41,
+    "enc_us": 10.919,
+    "dec_us": 9.333
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 42,
+    "enc_us": 9.345,
+    "dec_us": 73.663
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 43,
+    "enc_us": 10.243,
+    "dec_us": 9.184
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 44,
+    "enc_us": 93.361,
+    "dec_us": 10.68
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 45,
+    "enc_us": 9.225,
+    "dec_us": 9.148
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 46,
+    "enc_us": 9.31,
+    "dec_us": 9.218
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 47,
+    "enc_us": 9.133,
+    "dec_us": 9.182
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 48,
+    "enc_us": 9.189,
+    "dec_us": 9.343
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 49,
+    "enc_us": 9.132,
+    "dec_us": 9.173
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 50,
+    "enc_us": 9.196,
+    "dec_us": 9.161
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 51,
+    "enc_us": 9.198,
+    "dec_us": 9.143
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 52,
+    "enc_us": 11.329,
+    "dec_us": 9.874
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 53,
+    "enc_us": 9.277,
+    "dec_us": 9.149
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 54,
+    "enc_us": 9.175,
+    "dec_us": 9.14
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 55,
+    "enc_us": 89.129,
+    "dec_us": 10.691
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 56,
+    "enc_us": 9.285,
+    "dec_us": 34.097
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 57,
+    "enc_us": 10.437,
+    "dec_us": 9.4
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 58,
+    "enc_us": 9.301,
+    "dec_us": 9.085
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 59,
+    "enc_us": 9.111,
+    "dec_us": 9.221
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 60,
+    "enc_us": 9.206,
+    "dec_us": 9.174
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 61,
+    "enc_us": 9.127,
+    "dec_us": 9.185
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 62,
+    "enc_us": 9.686,
+    "dec_us": 9.269
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 63,
+    "enc_us": 9.387,
+    "dec_us": 9.221
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 64,
+    "enc_us": 9.069,
+    "dec_us": 9.285
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 65,
+    "enc_us": 23.731,
+    "dec_us": 9.715
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 66,
+    "enc_us": 9.597,
+    "dec_us": 31.784
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 67,
+    "enc_us": 10.215,
+    "dec_us": 9.265
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 68,
+    "enc_us": 9.147,
+    "dec_us": 15.434
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 69,
+    "enc_us": 126.089,
+    "dec_us": 180.029
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 70,
+    "enc_us": 11.269,
+    "dec_us": 9.559
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 71,
+    "enc_us": 9.178,
+    "dec_us": 9.176
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 72,
+    "enc_us": 9.169,
+    "dec_us": 9.162
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 73,
+    "enc_us": 9.218,
+    "dec_us": 9.296
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 74,
+    "enc_us": 9.127,
+    "dec_us": 9.251
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 75,
+    "enc_us": 9.315,
+    "dec_us": 9.278
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 76,
+    "enc_us": 9.18,
+    "dec_us": 9.311
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 77,
+    "enc_us": 21.902,
+    "dec_us": 59.27
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 78,
+    "enc_us": 9.986,
+    "dec_us": 9.19
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 79,
+    "enc_us": 9.218,
+    "dec_us": 9.247
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 80,
+    "enc_us": 9.191,
+    "dec_us": 9.076
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 81,
+    "enc_us": 9.12,
+    "dec_us": 9.224
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 82,
+    "enc_us": 9.189,
+    "dec_us": 9.404
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 83,
+    "enc_us": 9.2,
+    "dec_us": 9.245
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 84,
+    "enc_us": 9.146,
+    "dec_us": 9.149
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 85,
+    "enc_us": 43.677,
+    "dec_us": 10.682
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 86,
+    "enc_us": 9.148,
+    "dec_us": 9.263
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 87,
+    "enc_us": 9.26,
+    "dec_us": 9.095
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 88,
+    "enc_us": 9.201,
+    "dec_us": 9.287
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 89,
+    "enc_us": 9.267,
+    "dec_us": 9.049
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 90,
+    "enc_us": 9.165,
+    "dec_us": 9.161
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 91,
+    "enc_us": 9.139,
+    "dec_us": 9.209
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 92,
+    "enc_us": 9.232,
+    "dec_us": 9.163
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 93,
+    "enc_us": 9.255,
+    "dec_us": 9.266
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 94,
+    "enc_us": 9.198,
+    "dec_us": 9.183
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 95,
+    "enc_us": 9.126,
+    "dec_us": 9.257
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 96,
+    "enc_us": 9.186,
+    "dec_us": 108.059
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 97,
+    "enc_us": 33.045,
+    "dec_us": 13.902
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 98,
+    "enc_us": 12.617,
+    "dec_us": 110.087
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 99,
+    "enc_us": 10.431,
+    "dec_us": 9.416
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 100,
+    "enc_us": 9.124,
+    "dec_us": 9.249
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 101,
+    "enc_us": 14.084,
+    "dec_us": 53.92
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 102,
+    "enc_us": 10.382,
+    "dec_us": 9.402
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 103,
+    "enc_us": 69.292,
+    "dec_us": 11.292
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 104,
+    "enc_us": 9.275,
+    "dec_us": 9.086
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 105,
+    "enc_us": 9.24,
+    "dec_us": 9.174
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 106,
+    "enc_us": 9.344,
+    "dec_us": 9.112
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 107,
+    "enc_us": 9.282,
+    "dec_us": 9.26
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 108,
+    "enc_us": 9.212,
+    "dec_us": 9.313
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 109,
+    "enc_us": 9.183,
+    "dec_us": 9.282
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 110,
+    "enc_us": 9.207,
+    "dec_us": 9.24
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 111,
+    "enc_us": 9.274,
+    "dec_us": 9.174
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 112,
+    "enc_us": 9.123,
+    "dec_us": 9.155
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 113,
+    "enc_us": 9.116,
+    "dec_us": 9.211
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 114,
+    "enc_us": 9.223,
+    "dec_us": 9.231
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 115,
+    "enc_us": 11.542,
+    "dec_us": 9.931
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 116,
+    "enc_us": 32.944,
+    "dec_us": 10.333
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 117,
+    "enc_us": 9.311,
+    "dec_us": 9.099
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 118,
+    "enc_us": 9.115,
+    "dec_us": 9.385
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 119,
+    "enc_us": 9.588,
+    "dec_us": 9.247
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 120,
+    "enc_us": 9.24,
+    "dec_us": 9.349
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 121,
+    "enc_us": 9.061,
+    "dec_us": 9.235
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 122,
+    "enc_us": 9.189,
+    "dec_us": 9.124
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 123,
+    "enc_us": 9.082,
+    "dec_us": 9.255
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 124,
+    "enc_us": 9.13,
+    "dec_us": 9.278
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 125,
+    "enc_us": 9.122,
+    "dec_us": 9.312
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 126,
+    "enc_us": 9.131,
+    "dec_us": 9.224
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 127,
+    "enc_us": 9.131,
+    "dec_us": 9.254
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 128,
+    "enc_us": 9.553,
+    "dec_us": 9.345
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 129,
+    "enc_us": 9.711,
+    "dec_us": 9.496
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 130,
+    "enc_us": 9.364,
+    "dec_us": 9.306
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 131,
+    "enc_us": 9.249,
+    "dec_us": 9.32
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 132,
+    "enc_us": 9.167,
+    "dec_us": 9.371
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 133,
+    "enc_us": 9.976,
+    "dec_us": 526.592
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 134,
+    "enc_us": 9.983,
+    "dec_us": 9.762
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 135,
+    "enc_us": 9.271,
+    "dec_us": 9.667
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 136,
+    "enc_us": 9.168,
+    "dec_us": 9.341
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 137,
+    "enc_us": 9.24,
+    "dec_us": 9.236
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 138,
+    "enc_us": 9.154,
+    "dec_us": 9.276
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 139,
+    "enc_us": 9.092,
+    "dec_us": 265.514
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 140,
+    "enc_us": 14.839,
+    "dec_us": 13.099
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 141,
+    "enc_us": 14.307,
+    "dec_us": 18.271
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 142,
+    "enc_us": 9.201,
+    "dec_us": 9.209
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 143,
+    "enc_us": 9.073,
+    "dec_us": 9.197
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 144,
+    "enc_us": 161.572,
+    "dec_us": 11.528
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 145,
+    "enc_us": 9.608,
+    "dec_us": 9.293
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 146,
+    "enc_us": 9.143,
+    "dec_us": 9.197
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 147,
+    "enc_us": 9.194,
+    "dec_us": 9.167
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 148,
+    "enc_us": 9.428,
+    "dec_us": 9.161
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 149,
+    "enc_us": 9.095,
+    "dec_us": 9.131
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 150,
+    "enc_us": 9.225,
+    "dec_us": 9.158
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 151,
+    "enc_us": 9.156,
+    "dec_us": 9.172
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 152,
+    "enc_us": 9.202,
+    "dec_us": 9.211
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 153,
+    "enc_us": 9.376,
+    "dec_us": 9.276
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 154,
+    "enc_us": 9.502,
+    "dec_us": 9.228
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 155,
+    "enc_us": 9.117,
+    "dec_us": 9.32
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 156,
+    "enc_us": 9.327,
+    "dec_us": 9.183
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 157,
+    "enc_us": 9.268,
+    "dec_us": 9.255
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 158,
+    "enc_us": 9.187,
+    "dec_us": 10.002
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 159,
+    "enc_us": 158.93,
+    "dec_us": 35.933
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 160,
+    "enc_us": 29.41,
+    "dec_us": 9.813
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 161,
+    "enc_us": 9.38,
+    "dec_us": 9.195
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 162,
+    "enc_us": 9.22,
+    "dec_us": 9.311
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 163,
+    "enc_us": 9.194,
+    "dec_us": 9.231
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 164,
+    "enc_us": 9.383,
+    "dec_us": 9.272
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 165,
+    "enc_us": 9.192,
+    "dec_us": 9.303
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 166,
+    "enc_us": 9.213,
+    "dec_us": 9.157
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 167,
+    "enc_us": 9.204,
+    "dec_us": 9.551
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 168,
+    "enc_us": 9.184,
+    "dec_us": 9.213
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 169,
+    "enc_us": 31.773,
+    "dec_us": 17.289
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 170,
+    "enc_us": 135.991,
+    "dec_us": 11.377
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 171,
+    "enc_us": 9.279,
+    "dec_us": 9.276
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 172,
+    "enc_us": 9.273,
+    "dec_us": 9.323
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 173,
+    "enc_us": 9.672,
+    "dec_us": 9.334
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 174,
+    "enc_us": 9.201,
+    "dec_us": 9.364
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 175,
+    "enc_us": 126.559,
+    "dec_us": 11.415
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 176,
+    "enc_us": 9.688,
+    "dec_us": 9.287
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 177,
+    "enc_us": 9.267,
+    "dec_us": 9.295
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 178,
+    "enc_us": 9.189,
+    "dec_us": 9.225
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 179,
+    "enc_us": 10.859,
+    "dec_us": 9.294
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 180,
+    "enc_us": 9.247,
+    "dec_us": 9.417
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 181,
+    "enc_us": 9.206,
+    "dec_us": 9.398
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 182,
+    "enc_us": 9.213,
+    "dec_us": 9.178
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 183,
+    "enc_us": 9.288,
+    "dec_us": 9.261
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 184,
+    "enc_us": 9.118,
+    "dec_us": 9.252
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 185,
+    "enc_us": 9.283,
+    "dec_us": 9.18
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 186,
+    "enc_us": 9.221,
+    "dec_us": 9.215
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 187,
+    "enc_us": 9.358,
+    "dec_us": 9.334
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 188,
+    "enc_us": 9.188,
+    "dec_us": 9.319
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 189,
+    "enc_us": 9.116,
+    "dec_us": 9.215
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 190,
+    "enc_us": 9.495,
+    "dec_us": 9.374
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 191,
+    "enc_us": 9.156,
+    "dec_us": 9.163
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 192,
+    "enc_us": 123.599,
+    "dec_us": 15.572
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 193,
+    "enc_us": 12.83,
+    "dec_us": 12.792
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 194,
+    "enc_us": 11.617,
+    "dec_us": 9.31
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 195,
+    "enc_us": 103.812,
+    "dec_us": 11.205
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 196,
+    "enc_us": 9.748,
+    "dec_us": 9.33
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 197,
+    "enc_us": 9.168,
+    "dec_us": 9.312
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 198,
+    "enc_us": 9.139,
+    "dec_us": 9.241
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 10,
+    "trial": 199,
+    "enc_us": 9.112,
+    "dec_us": 9.338
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 0,
+    "enc_us": 277.297,
+    "dec_us": 5.927
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 1,
+    "enc_us": 3.248,
+    "dec_us": 2.844
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 2,
+    "enc_us": 3.289,
+    "dec_us": 2.939
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 3,
+    "enc_us": 2.961,
+    "dec_us": 2.93
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 4,
+    "enc_us": 2.854,
+    "dec_us": 2.666
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 5,
+    "enc_us": 2.633,
+    "dec_us": 2.697
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 6,
+    "enc_us": 2.721,
+    "dec_us": 2.604
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 7,
+    "enc_us": 2.882,
+    "dec_us": 17.607
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 8,
+    "enc_us": 3.52,
+    "dec_us": 2.735
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 9,
+    "enc_us": 2.861,
+    "dec_us": 2.709
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 10,
+    "enc_us": 2.658,
+    "dec_us": 2.614
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 11,
+    "enc_us": 2.567,
+    "dec_us": 2.512
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 12,
+    "enc_us": 2.526,
+    "dec_us": 2.566
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 13,
+    "enc_us": 2.566,
+    "dec_us": 2.588
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 14,
+    "enc_us": 2.493,
+    "dec_us": 2.623
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 15,
+    "enc_us": 2.511,
+    "dec_us": 2.535
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 16,
+    "enc_us": 2.553,
+    "dec_us": 2.584
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 17,
+    "enc_us": 3.223,
+    "dec_us": 2.888
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 18,
+    "enc_us": 2.871,
+    "dec_us": 3.546
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 19,
+    "enc_us": 5.764,
+    "dec_us": 4.364
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 20,
+    "enc_us": 382.317,
+    "dec_us": 4.132
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 21,
+    "enc_us": 3.014,
+    "dec_us": 2.648
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 22,
+    "enc_us": 3.003,
+    "dec_us": 2.705
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 23,
+    "enc_us": 2.626,
+    "dec_us": 2.548
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 24,
+    "enc_us": 2.603,
+    "dec_us": 2.584
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 25,
+    "enc_us": 2.596,
+    "dec_us": 2.627
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 26,
+    "enc_us": 26.062,
+    "dec_us": 3.434
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 27,
+    "enc_us": 2.628,
+    "dec_us": 2.73
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 28,
+    "enc_us": 2.671,
+    "dec_us": 2.76
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 29,
+    "enc_us": 2.787,
+    "dec_us": 2.849
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 30,
+    "enc_us": 2.592,
+    "dec_us": 2.56
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 31,
+    "enc_us": 2.539,
+    "dec_us": 2.687
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 32,
+    "enc_us": 2.519,
+    "dec_us": 2.612
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 33,
+    "enc_us": 2.569,
+    "dec_us": 2.601
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 34,
+    "enc_us": 2.557,
+    "dec_us": 2.639
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 35,
+    "enc_us": 2.519,
+    "dec_us": 2.668
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 36,
+    "enc_us": 2.659,
+    "dec_us": 2.614
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 37,
+    "enc_us": 3.846,
+    "dec_us": 3.332
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 38,
+    "enc_us": 2.667,
+    "dec_us": 2.641
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 39,
+    "enc_us": 2.588,
+    "dec_us": 2.513
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 40,
+    "enc_us": 2.698,
+    "dec_us": 2.636
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 41,
+    "enc_us": 4.462,
+    "dec_us": 2.772
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 42,
+    "enc_us": 2.769,
+    "dec_us": 2.54
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 43,
+    "enc_us": 2.62,
+    "dec_us": 2.626
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 44,
+    "enc_us": 2.554,
+    "dec_us": 2.61
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 45,
+    "enc_us": 4.113,
+    "dec_us": 2.755
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 46,
+    "enc_us": 2.883,
+    "dec_us": 2.874
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 47,
+    "enc_us": 2.691,
+    "dec_us": 2.614
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 48,
+    "enc_us": 2.72,
+    "dec_us": 2.686
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 49,
+    "enc_us": 2.512,
+    "dec_us": 2.601
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 50,
+    "enc_us": 2.584,
+    "dec_us": 2.648
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 51,
+    "enc_us": 2.816,
+    "dec_us": 2.655
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 52,
+    "enc_us": 2.597,
+    "dec_us": 2.684
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 53,
+    "enc_us": 2.752,
+    "dec_us": 2.672
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 54,
+    "enc_us": 2.643,
+    "dec_us": 2.708
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 55,
+    "enc_us": 2.531,
+    "dec_us": 2.602
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 56,
+    "enc_us": 2.663,
+    "dec_us": 2.611
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 57,
+    "enc_us": 2.683,
+    "dec_us": 2.615
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 58,
+    "enc_us": 2.831,
+    "dec_us": 2.72
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 59,
+    "enc_us": 2.707,
+    "dec_us": 2.684
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 60,
+    "enc_us": 2.583,
+    "dec_us": 2.602
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 61,
+    "enc_us": 2.606,
+    "dec_us": 2.598
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 62,
+    "enc_us": 2.504,
+    "dec_us": 2.611
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 63,
+    "enc_us": 2.546,
+    "dec_us": 2.624
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 64,
+    "enc_us": 2.547,
+    "dec_us": 2.653
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 65,
+    "enc_us": 4.112,
+    "dec_us": 2.865
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 66,
+    "enc_us": 2.557,
+    "dec_us": 2.573
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 67,
+    "enc_us": 2.66,
+    "dec_us": 2.645
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 68,
+    "enc_us": 2.557,
+    "dec_us": 2.637
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 69,
+    "enc_us": 2.606,
+    "dec_us": 2.56
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 70,
+    "enc_us": 2.548,
+    "dec_us": 2.653
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 71,
+    "enc_us": 2.496,
+    "dec_us": 2.539
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 72,
+    "enc_us": 2.572,
+    "dec_us": 2.549
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 73,
+    "enc_us": 2.611,
+    "dec_us": 2.557
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 74,
+    "enc_us": 2.522,
+    "dec_us": 2.529
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 75,
+    "enc_us": 2.567,
+    "dec_us": 2.621
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 76,
+    "enc_us": 2.572,
+    "dec_us": 2.807
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 77,
+    "enc_us": 2.587,
+    "dec_us": 2.666
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 78,
+    "enc_us": 2.728,
+    "dec_us": 2.586
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 79,
+    "enc_us": 2.542,
+    "dec_us": 2.619
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 80,
+    "enc_us": 2.505,
+    "dec_us": 2.57
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 81,
+    "enc_us": 2.533,
+    "dec_us": 2.536
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 82,
+    "enc_us": 2.525,
+    "dec_us": 2.614
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 83,
+    "enc_us": 2.503,
+    "dec_us": 2.676
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 84,
+    "enc_us": 2.592,
+    "dec_us": 2.569
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 85,
+    "enc_us": 2.538,
+    "dec_us": 2.592
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 86,
+    "enc_us": 2.509,
+    "dec_us": 2.553
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 87,
+    "enc_us": 2.644,
+    "dec_us": 2.516
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 88,
+    "enc_us": 2.538,
+    "dec_us": 2.62
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 89,
+    "enc_us": 16.481,
+    "dec_us": 3.275
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 90,
+    "enc_us": 2.796,
+    "dec_us": 2.521
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 91,
+    "enc_us": 2.607,
+    "dec_us": 2.823
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 92,
+    "enc_us": 2.599,
+    "dec_us": 2.59
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 93,
+    "enc_us": 2.647,
+    "dec_us": 2.567
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 94,
+    "enc_us": 2.617,
+    "dec_us": 2.519
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 95,
+    "enc_us": 2.622,
+    "dec_us": 2.673
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 96,
+    "enc_us": 2.598,
+    "dec_us": 2.554
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 97,
+    "enc_us": 2.582,
+    "dec_us": 2.716
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 98,
+    "enc_us": 2.567,
+    "dec_us": 2.596
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 99,
+    "enc_us": 2.56,
+    "dec_us": 2.553
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 100,
+    "enc_us": 2.598,
+    "dec_us": 2.586
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 101,
+    "enc_us": 2.537,
+    "dec_us": 2.648
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 102,
+    "enc_us": 2.737,
+    "dec_us": 2.581
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 103,
+    "enc_us": 2.617,
+    "dec_us": 2.595
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 104,
+    "enc_us": 2.573,
+    "dec_us": 2.619
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 105,
+    "enc_us": 2.647,
+    "dec_us": 2.7
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 106,
+    "enc_us": 2.584,
+    "dec_us": 2.565
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 107,
+    "enc_us": 2.549,
+    "dec_us": 2.645
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 108,
+    "enc_us": 2.74,
+    "dec_us": 2.608
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 109,
+    "enc_us": 5.968,
+    "dec_us": 2.921
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 110,
+    "enc_us": 3.069,
+    "dec_us": 3.063
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 111,
+    "enc_us": 7.412,
+    "dec_us": 4.564
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 112,
+    "enc_us": 4.15,
+    "dec_us": 69.426
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 113,
+    "enc_us": 3.631,
+    "dec_us": 2.861
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 114,
+    "enc_us": 2.741,
+    "dec_us": 116.284
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 115,
+    "enc_us": 4.51,
+    "dec_us": 2.905
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 116,
+    "enc_us": 2.729,
+    "dec_us": 2.784
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 117,
+    "enc_us": 2.682,
+    "dec_us": 2.608
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 118,
+    "enc_us": 2.638,
+    "dec_us": 2.796
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 119,
+    "enc_us": 2.552,
+    "dec_us": 2.648
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 120,
+    "enc_us": 2.567,
+    "dec_us": 2.632
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 121,
+    "enc_us": 21.542,
+    "dec_us": 3.705
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 122,
+    "enc_us": 2.658,
+    "dec_us": 2.629
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 123,
+    "enc_us": 2.679,
+    "dec_us": 2.669
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 124,
+    "enc_us": 2.562,
+    "dec_us": 2.67
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 125,
+    "enc_us": 2.602,
+    "dec_us": 2.625
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 126,
+    "enc_us": 2.648,
+    "dec_us": 2.71
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 127,
+    "enc_us": 2.606,
+    "dec_us": 2.703
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 128,
+    "enc_us": 2.807,
+    "dec_us": 2.616
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 129,
+    "enc_us": 4.4,
+    "dec_us": 3.017
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 130,
+    "enc_us": 2.847,
+    "dec_us": 2.664
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 131,
+    "enc_us": 2.655,
+    "dec_us": 2.606
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 132,
+    "enc_us": 2.642,
+    "dec_us": 2.653
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 133,
+    "enc_us": 2.564,
+    "dec_us": 2.735
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 134,
+    "enc_us": 2.615,
+    "dec_us": 2.673
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 135,
+    "enc_us": 2.641,
+    "dec_us": 2.617
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 136,
+    "enc_us": 2.658,
+    "dec_us": 2.563
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 137,
+    "enc_us": 2.682,
+    "dec_us": 2.605
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 138,
+    "enc_us": 2.607,
+    "dec_us": 2.637
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 139,
+    "enc_us": 2.81,
+    "dec_us": 2.708
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 140,
+    "enc_us": 2.788,
+    "dec_us": 2.654
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 141,
+    "enc_us": 2.586,
+    "dec_us": 2.554
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 142,
+    "enc_us": 2.6,
+    "dec_us": 2.635
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 143,
+    "enc_us": 2.631,
+    "dec_us": 2.647
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 144,
+    "enc_us": 2.581,
+    "dec_us": 2.616
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 145,
+    "enc_us": 2.604,
+    "dec_us": 2.597
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 146,
+    "enc_us": 2.531,
+    "dec_us": 2.567
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 147,
+    "enc_us": 2.519,
+    "dec_us": 2.563
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 148,
+    "enc_us": 2.544,
+    "dec_us": 54.506
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 149,
+    "enc_us": 3.775,
+    "dec_us": 2.792
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 150,
+    "enc_us": 2.958,
+    "dec_us": 2.653
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 151,
+    "enc_us": 2.614,
+    "dec_us": 2.576
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 152,
+    "enc_us": 2.839,
+    "dec_us": 2.643
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 153,
+    "enc_us": 17.571,
+    "dec_us": 3.322
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 154,
+    "enc_us": 2.671,
+    "dec_us": 2.593
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 155,
+    "enc_us": 2.575,
+    "dec_us": 2.581
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 156,
+    "enc_us": 2.588,
+    "dec_us": 2.657
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 157,
+    "enc_us": 2.565,
+    "dec_us": 2.586
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 158,
+    "enc_us": 2.55,
+    "dec_us": 2.608
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 159,
+    "enc_us": 2.601,
+    "dec_us": 2.616
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 160,
+    "enc_us": 2.562,
+    "dec_us": 2.564
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 161,
+    "enc_us": 2.799,
+    "dec_us": 2.723
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 162,
+    "enc_us": 2.657,
+    "dec_us": 2.757
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 163,
+    "enc_us": 2.603,
+    "dec_us": 2.722
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 164,
+    "enc_us": 2.626,
+    "dec_us": 2.562
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 165,
+    "enc_us": 2.576,
+    "dec_us": 2.652
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 166,
+    "enc_us": 2.579,
+    "dec_us": 2.607
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 167,
+    "enc_us": 2.563,
+    "dec_us": 2.565
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 168,
+    "enc_us": 2.569,
+    "dec_us": 2.688
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 169,
+    "enc_us": 2.633,
+    "dec_us": 2.673
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 170,
+    "enc_us": 2.612,
+    "dec_us": 2.833
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 171,
+    "enc_us": 6.838,
+    "dec_us": 4.862
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 172,
+    "enc_us": 6.252,
+    "dec_us": 3.073
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 173,
+    "enc_us": 2.673,
+    "dec_us": 2.644
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 174,
+    "enc_us": 2.571,
+    "dec_us": 2.507
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 175,
+    "enc_us": 2.658,
+    "dec_us": 2.632
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 176,
+    "enc_us": 2.62,
+    "dec_us": 2.643
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 177,
+    "enc_us": 2.54,
+    "dec_us": 2.594
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 178,
+    "enc_us": 2.872,
+    "dec_us": 2.834
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 179,
+    "enc_us": 2.588,
+    "dec_us": 2.575
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 180,
+    "enc_us": 2.716,
+    "dec_us": 2.551
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 181,
+    "enc_us": 2.63,
+    "dec_us": 2.686
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 182,
+    "enc_us": 2.537,
+    "dec_us": 2.543
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 183,
+    "enc_us": 2.518,
+    "dec_us": 2.542
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 184,
+    "enc_us": 2.649,
+    "dec_us": 2.663
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 185,
+    "enc_us": 18.153,
+    "dec_us": 3.421
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 186,
+    "enc_us": 2.792,
+    "dec_us": 2.656
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 187,
+    "enc_us": 2.672,
+    "dec_us": 2.63
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 188,
+    "enc_us": 2.564,
+    "dec_us": 2.871
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 189,
+    "enc_us": 2.817,
+    "dec_us": 2.685
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 190,
+    "enc_us": 2.617,
+    "dec_us": 2.589
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 191,
+    "enc_us": 2.585,
+    "dec_us": 2.638
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 192,
+    "enc_us": 2.575,
+    "dec_us": 2.65
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 193,
+    "enc_us": 82.369,
+    "dec_us": 3.112
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 194,
+    "enc_us": 2.603,
+    "dec_us": 2.652
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 195,
+    "enc_us": 2.616,
+    "dec_us": 2.673
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 196,
+    "enc_us": 2.566,
+    "dec_us": 6.434
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 197,
+    "enc_us": 4.976,
+    "dec_us": 118.8
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 198,
+    "enc_us": 2.984,
+    "dec_us": 2.603
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 10,
+    "trial": 199,
+    "enc_us": 2.753,
+    "dec_us": 2.809
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 0,
+    "enc_us": 14.31,
+    "dec_us": 14.394
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 1,
+    "enc_us": 14.674,
+    "dec_us": 14.192
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 2,
+    "enc_us": 79.743,
+    "dec_us": 19.833
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 3,
+    "enc_us": 42.813,
+    "dec_us": 15.313
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 4,
+    "enc_us": 14.421,
+    "dec_us": 13.973
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 5,
+    "enc_us": 14.224,
+    "dec_us": 14.14
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 6,
+    "enc_us": 14.305,
+    "dec_us": 14.177
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 7,
+    "enc_us": 14.055,
+    "dec_us": 14.29
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 8,
+    "enc_us": 13.962,
+    "dec_us": 38.377
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 9,
+    "enc_us": 15.162,
+    "dec_us": 14.102
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 10,
+    "enc_us": 14.023,
+    "dec_us": 14.136
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 11,
+    "enc_us": 14.129,
+    "dec_us": 14.291
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 12,
+    "enc_us": 33.205,
+    "dec_us": 14.568
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 13,
+    "enc_us": 14.338,
+    "dec_us": 14.068
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 14,
+    "enc_us": 14.325,
+    "dec_us": 14.038
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 15,
+    "enc_us": 14.218,
+    "dec_us": 18.162
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 16,
+    "enc_us": 14.743,
+    "dec_us": 14.172
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 17,
+    "enc_us": 14.166,
+    "dec_us": 14.322
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 18,
+    "enc_us": 14.023,
+    "dec_us": 14.125
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 19,
+    "enc_us": 15.694,
+    "dec_us": 14.149
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 20,
+    "enc_us": 14.075,
+    "dec_us": 14.16
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 21,
+    "enc_us": 14.04,
+    "dec_us": 14.043
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 22,
+    "enc_us": 14.417,
+    "dec_us": 14.327
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 23,
+    "enc_us": 13.938,
+    "dec_us": 19.367
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 24,
+    "enc_us": 57.022,
+    "dec_us": 15.406
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 25,
+    "enc_us": 14.15,
+    "dec_us": 14.069
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 26,
+    "enc_us": 14.05,
+    "dec_us": 14.154
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 27,
+    "enc_us": 13.985,
+    "dec_us": 14.087
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 28,
+    "enc_us": 13.987,
+    "dec_us": 14.007
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 29,
+    "enc_us": 14.036,
+    "dec_us": 14.038
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 30,
+    "enc_us": 13.914,
+    "dec_us": 13.974
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 31,
+    "enc_us": 14.591,
+    "dec_us": 74.291
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 32,
+    "enc_us": 16.195,
+    "dec_us": 14.519
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 33,
+    "enc_us": 14.648,
+    "dec_us": 14.401
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 34,
+    "enc_us": 14.137,
+    "dec_us": 14.187
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 35,
+    "enc_us": 13.933,
+    "dec_us": 14.051
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 36,
+    "enc_us": 46.98,
+    "dec_us": 15.28
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 37,
+    "enc_us": 14.069,
+    "dec_us": 14.284
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 38,
+    "enc_us": 13.958,
+    "dec_us": 14.127
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 39,
+    "enc_us": 13.975,
+    "dec_us": 608.196
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 40,
+    "enc_us": 18.946,
+    "dec_us": 15.135
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 41,
+    "enc_us": 14.468,
+    "dec_us": 14.083
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 42,
+    "enc_us": 14.183,
+    "dec_us": 14.14
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 43,
+    "enc_us": 13.944,
+    "dec_us": 14.095
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 44,
+    "enc_us": 14.032,
+    "dec_us": 14.116
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 45,
+    "enc_us": 14.021,
+    "dec_us": 13.943
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 46,
+    "enc_us": 38.984,
+    "dec_us": 182.559
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 47,
+    "enc_us": 16.003,
+    "dec_us": 14.548
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 48,
+    "enc_us": 14.134,
+    "dec_us": 14.126
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 49,
+    "enc_us": 14.408,
+    "dec_us": 14.196
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 50,
+    "enc_us": 15.73,
+    "dec_us": 14.282
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 51,
+    "enc_us": 67.046,
+    "dec_us": 15.405
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 52,
+    "enc_us": 14.229,
+    "dec_us": 14.092
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 53,
+    "enc_us": 14.072,
+    "dec_us": 14.066
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 54,
+    "enc_us": 14.54,
+    "dec_us": 14.02
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 55,
+    "enc_us": 14.027,
+    "dec_us": 14.075
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 56,
+    "enc_us": 14.087,
+    "dec_us": 13.933
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 57,
+    "enc_us": 19.973,
+    "dec_us": 22.247
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 58,
+    "enc_us": 14.15,
+    "dec_us": 13.927
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 59,
+    "enc_us": 13.958,
+    "dec_us": 14.118
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 60,
+    "enc_us": 14.065,
+    "dec_us": 14.108
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 61,
+    "enc_us": 13.935,
+    "dec_us": 14.1
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 62,
+    "enc_us": 14.049,
+    "dec_us": 13.971
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 63,
+    "enc_us": 13.961,
+    "dec_us": 18.83
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 64,
+    "enc_us": 214.697,
+    "dec_us": 17.197
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 65,
+    "enc_us": 14.801,
+    "dec_us": 38.836
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 66,
+    "enc_us": 15.083,
+    "dec_us": 14.089
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 67,
+    "enc_us": 14.44,
+    "dec_us": 14.288
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 68,
+    "enc_us": 14.25,
+    "dec_us": 14.143
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 69,
+    "enc_us": 14.02,
+    "dec_us": 14.5
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 70,
+    "enc_us": 14.37,
+    "dec_us": 14.036
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 71,
+    "enc_us": 13.982,
+    "dec_us": 14.082
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 72,
+    "enc_us": 13.936,
+    "dec_us": 166.303
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 73,
+    "enc_us": 16.307,
+    "dec_us": 14.494
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 74,
+    "enc_us": 14.083,
+    "dec_us": 14.18
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 75,
+    "enc_us": 14.015,
+    "dec_us": 14.306
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 76,
+    "enc_us": 13.952,
+    "dec_us": 14.001
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 77,
+    "enc_us": 160.327,
+    "dec_us": 22.444
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 78,
+    "enc_us": 36.017,
+    "dec_us": 14.774
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 79,
+    "enc_us": 14.123,
+    "dec_us": 14.115
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 80,
+    "enc_us": 14.013,
+    "dec_us": 304.873
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 81,
+    "enc_us": 14.643,
+    "dec_us": 14.097
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 82,
+    "enc_us": 14.634,
+    "dec_us": 14.064
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 83,
+    "enc_us": 15.598,
+    "dec_us": 14.258
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 84,
+    "enc_us": 14.229,
+    "dec_us": 13.982
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 85,
+    "enc_us": 13.925,
+    "dec_us": 13.992
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 86,
+    "enc_us": 13.9,
+    "dec_us": 14.02
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 87,
+    "enc_us": 15.409,
+    "dec_us": 14.732
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 88,
+    "enc_us": 140.962,
+    "dec_us": 16.157
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 89,
+    "enc_us": 14.143,
+    "dec_us": 13.933
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 90,
+    "enc_us": 70.961,
+    "dec_us": 15.264
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 91,
+    "enc_us": 14.077,
+    "dec_us": 14.467
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 92,
+    "enc_us": 14.197,
+    "dec_us": 14.209
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 93,
+    "enc_us": 14.008,
+    "dec_us": 14.314
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 94,
+    "enc_us": 14.31,
+    "dec_us": 14.129
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 95,
+    "enc_us": 13.986,
+    "dec_us": 14.132
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 96,
+    "enc_us": 13.926,
+    "dec_us": 13.952
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 97,
+    "enc_us": 14.348,
+    "dec_us": 14.146
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 98,
+    "enc_us": 14.203,
+    "dec_us": 14.225
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 99,
+    "enc_us": 18.79,
+    "dec_us": 274.077
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 100,
+    "enc_us": 17.233,
+    "dec_us": 14.6
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 101,
+    "enc_us": 14.202,
+    "dec_us": 14.292
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 102,
+    "enc_us": 14.476,
+    "dec_us": 14.184
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 103,
+    "enc_us": 13.925,
+    "dec_us": 14.261
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 104,
+    "enc_us": 13.977,
+    "dec_us": 14.027
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 105,
+    "enc_us": 13.911,
+    "dec_us": 13.942
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 106,
+    "enc_us": 14.572,
+    "dec_us": 13.986
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 107,
+    "enc_us": 55.342,
+    "dec_us": 15.351
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 108,
+    "enc_us": 13.993,
+    "dec_us": 13.909
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 109,
+    "enc_us": 14.247,
+    "dec_us": 14.233
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 110,
+    "enc_us": 56.566,
+    "dec_us": 15.578
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 111,
+    "enc_us": 14.236,
+    "dec_us": 14.143
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 112,
+    "enc_us": 14.053,
+    "dec_us": 14.174
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 113,
+    "enc_us": 15.51,
+    "dec_us": 14.223
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 114,
+    "enc_us": 14.131,
+    "dec_us": 14.108
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 115,
+    "enc_us": 14.241,
+    "dec_us": 14.141
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 116,
+    "enc_us": 13.92,
+    "dec_us": 14.057
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 117,
+    "enc_us": 14.061,
+    "dec_us": 14.44
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 118,
+    "enc_us": 13.957,
+    "dec_us": 13.94
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 119,
+    "enc_us": 14.106,
+    "dec_us": 14.014
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 120,
+    "enc_us": 14.038,
+    "dec_us": 13.952
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 121,
+    "enc_us": 14.041,
+    "dec_us": 14.057
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 122,
+    "enc_us": 14.371,
+    "dec_us": 14.092
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 123,
+    "enc_us": 14.288,
+    "dec_us": 13.909
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 124,
+    "enc_us": 13.92,
+    "dec_us": 333.564
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 125,
+    "enc_us": 16.648,
+    "dec_us": 14.524
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 126,
+    "enc_us": 14.479,
+    "dec_us": 14.292
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 127,
+    "enc_us": 14.1,
+    "dec_us": 14.23
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 128,
+    "enc_us": 111.053,
+    "dec_us": 15.496
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 129,
+    "enc_us": 14.17,
+    "dec_us": 13.961
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 130,
+    "enc_us": 14.649,
+    "dec_us": 73.497
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 131,
+    "enc_us": 15.091,
+    "dec_us": 14.124
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 132,
+    "enc_us": 14.044,
+    "dec_us": 14.208
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 133,
+    "enc_us": 13.877,
+    "dec_us": 14.031
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 134,
+    "enc_us": 14.133,
+    "dec_us": 13.945
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 135,
+    "enc_us": 13.9,
+    "dec_us": 14.24
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 136,
+    "enc_us": 13.98,
+    "dec_us": 21.076
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 137,
+    "enc_us": 106.285,
+    "dec_us": 21.469
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 138,
+    "enc_us": 14.525,
+    "dec_us": 187.602
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 139,
+    "enc_us": 21.321,
+    "dec_us": 19.748
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 140,
+    "enc_us": 275.399,
+    "dec_us": 16.725
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 141,
+    "enc_us": 14.289,
+    "dec_us": 13.998
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 142,
+    "enc_us": 14.376,
+    "dec_us": 14.085
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 143,
+    "enc_us": 13.974,
+    "dec_us": 15.41
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 144,
+    "enc_us": 13.88,
+    "dec_us": 13.989
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 145,
+    "enc_us": 205.175,
+    "dec_us": 18.138
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 146,
+    "enc_us": 63.916,
+    "dec_us": 33.165
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 147,
+    "enc_us": 342.245,
+    "dec_us": 17.896
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 148,
+    "enc_us": 14.879,
+    "dec_us": 14.294
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 149,
+    "enc_us": 14.351,
+    "dec_us": 13.967
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 150,
+    "enc_us": 14.164,
+    "dec_us": 13.973
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 151,
+    "enc_us": 14.375,
+    "dec_us": 14.637
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 152,
+    "enc_us": 123.005,
+    "dec_us": 135.557
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 153,
+    "enc_us": 15.423,
+    "dec_us": 14.176
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 154,
+    "enc_us": 14.127,
+    "dec_us": 14.249
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 155,
+    "enc_us": 14.043,
+    "dec_us": 14.232
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 156,
+    "enc_us": 14.28,
+    "dec_us": 14.124
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 157,
+    "enc_us": 44.249,
+    "dec_us": 15.339
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 158,
+    "enc_us": 14.073,
+    "dec_us": 14.398
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 159,
+    "enc_us": 14.214,
+    "dec_us": 14.144
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 160,
+    "enc_us": 14.023,
+    "dec_us": 14.026
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 161,
+    "enc_us": 14.205,
+    "dec_us": 13.937
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 162,
+    "enc_us": 14.503,
+    "dec_us": 13.979
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 163,
+    "enc_us": 13.997,
+    "dec_us": 14.194
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 164,
+    "enc_us": 171.553,
+    "dec_us": 16.721
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 165,
+    "enc_us": 14.438,
+    "dec_us": 14.21
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 166,
+    "enc_us": 14.231,
+    "dec_us": 69.384
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 167,
+    "enc_us": 15.738,
+    "dec_us": 14.438
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 168,
+    "enc_us": 14.141,
+    "dec_us": 14.094
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 169,
+    "enc_us": 14.863,
+    "dec_us": 14.143
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 170,
+    "enc_us": 14.404,
+    "dec_us": 14.065
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 171,
+    "enc_us": 14.725,
+    "dec_us": 14.746
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 172,
+    "enc_us": 93.396,
+    "dec_us": 16.157
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 173,
+    "enc_us": 14.643,
+    "dec_us": 14.445
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 174,
+    "enc_us": 14.343,
+    "dec_us": 14.126
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 175,
+    "enc_us": 14.451,
+    "dec_us": 14.247
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 176,
+    "enc_us": 68.428,
+    "dec_us": 253.687
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 177,
+    "enc_us": 28.023,
+    "dec_us": 223.47
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 178,
+    "enc_us": 17.009,
+    "dec_us": 346.672
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 179,
+    "enc_us": 17.508,
+    "dec_us": 14.875
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 180,
+    "enc_us": 17.903,
+    "dec_us": 14.603
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 181,
+    "enc_us": 14.578,
+    "dec_us": 39.81
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 182,
+    "enc_us": 15.168,
+    "dec_us": 14.31
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 183,
+    "enc_us": 14.166,
+    "dec_us": 14.06
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 184,
+    "enc_us": 14.194,
+    "dec_us": 14.002
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 185,
+    "enc_us": 14.181,
+    "dec_us": 14.005
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 186,
+    "enc_us": 14.081,
+    "dec_us": 14.162
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 187,
+    "enc_us": 14.402,
+    "dec_us": 14.182
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 188,
+    "enc_us": 13.978,
+    "dec_us": 36.591
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 189,
+    "enc_us": 15.039,
+    "dec_us": 14.255
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 190,
+    "enc_us": 14.35,
+    "dec_us": 14.337
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 191,
+    "enc_us": 14.039,
+    "dec_us": 14.139
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 192,
+    "enc_us": 14.284,
+    "dec_us": 14.4
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 193,
+    "enc_us": 184.397,
+    "dec_us": 20.998
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 194,
+    "enc_us": 14.933,
+    "dec_us": 14.192
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 195,
+    "enc_us": 14.399,
+    "dec_us": 14.17
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 196,
+    "enc_us": 14.347,
+    "dec_us": 14.182
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 197,
+    "enc_us": 14.226,
+    "dec_us": 14.053
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 198,
+    "enc_us": 14.051,
+    "dec_us": 13.988
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 20,
+    "trial": 199,
+    "enc_us": 13.965,
+    "dec_us": 14.01
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 0,
+    "enc_us": 3.314,
+    "dec_us": 3.334
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 1,
+    "enc_us": 3.348,
+    "dec_us": 3.41
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 2,
+    "enc_us": 3.305,
+    "dec_us": 3.28
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 3,
+    "enc_us": 3.309,
+    "dec_us": 3.533
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 4,
+    "enc_us": 3.352,
+    "dec_us": 3.145
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 5,
+    "enc_us": 3.381,
+    "dec_us": 3.35
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 6,
+    "enc_us": 3.441,
+    "dec_us": 3.187
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 7,
+    "enc_us": 3.249,
+    "dec_us": 3.24
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 8,
+    "enc_us": 3.412,
+    "dec_us": 3.154
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 9,
+    "enc_us": 3.215,
+    "dec_us": 7.171
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 10,
+    "enc_us": 52.516,
+    "dec_us": 4.729
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 11,
+    "enc_us": 3.574,
+    "dec_us": 3.532
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 12,
+    "enc_us": 3.228,
+    "dec_us": 3.451
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 13,
+    "enc_us": 7.614,
+    "dec_us": 6.466
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 14,
+    "enc_us": 133.713,
+    "dec_us": 7.54
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 15,
+    "enc_us": 17.553,
+    "dec_us": 4.719
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 16,
+    "enc_us": 3.292,
+    "dec_us": 3.135
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 17,
+    "enc_us": 4.88,
+    "dec_us": 3.456
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 18,
+    "enc_us": 3.144,
+    "dec_us": 3.279
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 19,
+    "enc_us": 3.294,
+    "dec_us": 3.247
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 20,
+    "enc_us": 3.469,
+    "dec_us": 3.211
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 21,
+    "enc_us": 3.14,
+    "dec_us": 3.205
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 22,
+    "enc_us": 5.034,
+    "dec_us": 3.378
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 23,
+    "enc_us": 3.352,
+    "dec_us": 3.196
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 24,
+    "enc_us": 3.354,
+    "dec_us": 3.179
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 25,
+    "enc_us": 3.433,
+    "dec_us": 3.145
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 26,
+    "enc_us": 3.278,
+    "dec_us": 3.164
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 27,
+    "enc_us": 3.196,
+    "dec_us": 3.463
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 28,
+    "enc_us": 3.472,
+    "dec_us": 3.133
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 29,
+    "enc_us": 3.398,
+    "dec_us": 3.186
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 30,
+    "enc_us": 3.269,
+    "dec_us": 3.155
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 31,
+    "enc_us": 3.16,
+    "dec_us": 3.502
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 32,
+    "enc_us": 3.647,
+    "dec_us": 3.192
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 33,
+    "enc_us": 3.252,
+    "dec_us": 3.316
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 34,
+    "enc_us": 3.238,
+    "dec_us": 3.229
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 35,
+    "enc_us": 3.171,
+    "dec_us": 31.237
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 36,
+    "enc_us": 4.0,
+    "dec_us": 3.597
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 37,
+    "enc_us": 3.44,
+    "dec_us": 3.427
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 38,
+    "enc_us": 3.357,
+    "dec_us": 3.3
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 39,
+    "enc_us": 18.179,
+    "dec_us": 3.468
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 40,
+    "enc_us": 3.247,
+    "dec_us": 3.517
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 41,
+    "enc_us": 4.978,
+    "dec_us": 3.374
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 42,
+    "enc_us": 3.371,
+    "dec_us": 3.312
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 43,
+    "enc_us": 3.336,
+    "dec_us": 3.306
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 44,
+    "enc_us": 3.183,
+    "dec_us": 3.25
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 45,
+    "enc_us": 3.094,
+    "dec_us": 3.248
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 46,
+    "enc_us": 3.126,
+    "dec_us": 3.202
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 47,
+    "enc_us": 214.621,
+    "dec_us": 21.176
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 48,
+    "enc_us": 3.659,
+    "dec_us": 3.235
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 49,
+    "enc_us": 3.205,
+    "dec_us": 3.253
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 50,
+    "enc_us": 3.132,
+    "dec_us": 3.261
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 51,
+    "enc_us": 3.775,
+    "dec_us": 3.358
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 52,
+    "enc_us": 3.177,
+    "dec_us": 3.264
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 53,
+    "enc_us": 3.153,
+    "dec_us": 3.127
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 54,
+    "enc_us": 3.028,
+    "dec_us": 3.212
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 55,
+    "enc_us": 3.134,
+    "dec_us": 3.125
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 56,
+    "enc_us": 3.253,
+    "dec_us": 3.142
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 57,
+    "enc_us": 3.229,
+    "dec_us": 3.115
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 58,
+    "enc_us": 3.106,
+    "dec_us": 3.131
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 59,
+    "enc_us": 3.58,
+    "dec_us": 3.226
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 60,
+    "enc_us": 3.273,
+    "dec_us": 3.152
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 61,
+    "enc_us": 3.289,
+    "dec_us": 3.159
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 62,
+    "enc_us": 3.292,
+    "dec_us": 3.436
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 63,
+    "enc_us": 3.405,
+    "dec_us": 3.075
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 64,
+    "enc_us": 3.33,
+    "dec_us": 3.238
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 65,
+    "enc_us": 3.138,
+    "dec_us": 3.222
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 66,
+    "enc_us": 3.545,
+    "dec_us": 3.156
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 67,
+    "enc_us": 3.086,
+    "dec_us": 3.133
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 68,
+    "enc_us": 21.208,
+    "dec_us": 3.822
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 69,
+    "enc_us": 3.345,
+    "dec_us": 3.198
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 70,
+    "enc_us": 3.425,
+    "dec_us": 3.181
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 71,
+    "enc_us": 3.33,
+    "dec_us": 3.461
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 72,
+    "enc_us": 3.179,
+    "dec_us": 3.145
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 73,
+    "enc_us": 3.219,
+    "dec_us": 3.341
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 74,
+    "enc_us": 3.067,
+    "dec_us": 3.213
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 75,
+    "enc_us": 3.591,
+    "dec_us": 7.366
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 76,
+    "enc_us": 49.541,
+    "dec_us": 6.128
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 77,
+    "enc_us": 16.71,
+    "dec_us": 5.058
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 78,
+    "enc_us": 3.556,
+    "dec_us": 3.325
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 79,
+    "enc_us": 3.193,
+    "dec_us": 3.313
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 80,
+    "enc_us": 3.215,
+    "dec_us": 3.187
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 81,
+    "enc_us": 3.138,
+    "dec_us": 3.22
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 82,
+    "enc_us": 3.165,
+    "dec_us": 3.193
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 83,
+    "enc_us": 3.201,
+    "dec_us": 3.183
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 84,
+    "enc_us": 3.346,
+    "dec_us": 3.207
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 85,
+    "enc_us": 3.203,
+    "dec_us": 3.331
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 86,
+    "enc_us": 4.928,
+    "dec_us": 3.241
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 87,
+    "enc_us": 3.185,
+    "dec_us": 3.177
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 88,
+    "enc_us": 3.317,
+    "dec_us": 3.182
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 89,
+    "enc_us": 3.211,
+    "dec_us": 3.229
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 90,
+    "enc_us": 3.182,
+    "dec_us": 3.2
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 91,
+    "enc_us": 3.055,
+    "dec_us": 3.214
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 92,
+    "enc_us": 3.115,
+    "dec_us": 3.111
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 93,
+    "enc_us": 3.709,
+    "dec_us": 3.26
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 94,
+    "enc_us": 3.099,
+    "dec_us": 3.29
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 95,
+    "enc_us": 3.385,
+    "dec_us": 3.293
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 96,
+    "enc_us": 3.423,
+    "dec_us": 3.226
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 97,
+    "enc_us": 3.503,
+    "dec_us": 3.116
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 98,
+    "enc_us": 3.172,
+    "dec_us": 3.116
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 99,
+    "enc_us": 3.082,
+    "dec_us": 3.166
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 100,
+    "enc_us": 17.179,
+    "dec_us": 3.853
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 101,
+    "enc_us": 3.642,
+    "dec_us": 3.514
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 102,
+    "enc_us": 3.213,
+    "dec_us": 3.202
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 103,
+    "enc_us": 3.504,
+    "dec_us": 3.321
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 104,
+    "enc_us": 3.164,
+    "dec_us": 3.189
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 105,
+    "enc_us": 3.103,
+    "dec_us": 3.206
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 106,
+    "enc_us": 3.173,
+    "dec_us": 3.434
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 107,
+    "enc_us": 3.338,
+    "dec_us": 3.13
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 108,
+    "enc_us": 3.126,
+    "dec_us": 3.164
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 109,
+    "enc_us": 3.58,
+    "dec_us": 3.291
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 110,
+    "enc_us": 3.591,
+    "dec_us": 3.174
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 111,
+    "enc_us": 3.3,
+    "dec_us": 3.16
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 112,
+    "enc_us": 3.223,
+    "dec_us": 3.369
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 113,
+    "enc_us": 3.162,
+    "dec_us": 3.232
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 114,
+    "enc_us": 3.191,
+    "dec_us": 3.155
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 115,
+    "enc_us": 3.186,
+    "dec_us": 3.491
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 116,
+    "enc_us": 34.065,
+    "dec_us": 5.682
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 117,
+    "enc_us": 3.233,
+    "dec_us": 3.078
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 118,
+    "enc_us": 3.241,
+    "dec_us": 3.275
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 119,
+    "enc_us": 3.274,
+    "dec_us": 3.425
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 120,
+    "enc_us": 3.153,
+    "dec_us": 3.146
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 121,
+    "enc_us": 3.035,
+    "dec_us": 3.1
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 122,
+    "enc_us": 3.15,
+    "dec_us": 3.229
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 123,
+    "enc_us": 3.4,
+    "dec_us": 3.38
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 124,
+    "enc_us": 3.175,
+    "dec_us": 3.28
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 125,
+    "enc_us": 3.208,
+    "dec_us": 3.084
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 126,
+    "enc_us": 3.23,
+    "dec_us": 3.311
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 127,
+    "enc_us": 3.392,
+    "dec_us": 3.191
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 128,
+    "enc_us": 3.25,
+    "dec_us": 3.171
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 129,
+    "enc_us": 3.241,
+    "dec_us": 3.134
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 130,
+    "enc_us": 3.203,
+    "dec_us": 3.156
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 131,
+    "enc_us": 3.256,
+    "dec_us": 3.071
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 132,
+    "enc_us": 17.201,
+    "dec_us": 3.786
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 133,
+    "enc_us": 3.465,
+    "dec_us": 3.258
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 134,
+    "enc_us": 3.746,
+    "dec_us": 3.266
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 135,
+    "enc_us": 3.094,
+    "dec_us": 3.16
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 136,
+    "enc_us": 3.125,
+    "dec_us": 3.134
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 137,
+    "enc_us": 3.065,
+    "dec_us": 3.081
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 138,
+    "enc_us": 3.126,
+    "dec_us": 3.186
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 139,
+    "enc_us": 3.195,
+    "dec_us": 3.111
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 140,
+    "enc_us": 6.848,
+    "dec_us": 5.932
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 141,
+    "enc_us": 4.691,
+    "dec_us": 3.176
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 142,
+    "enc_us": 3.262,
+    "dec_us": 3.155
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 143,
+    "enc_us": 3.184,
+    "dec_us": 3.256
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 144,
+    "enc_us": 3.176,
+    "dec_us": 3.09
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 145,
+    "enc_us": 3.109,
+    "dec_us": 3.176
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 146,
+    "enc_us": 3.126,
+    "dec_us": 3.121
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 147,
+    "enc_us": 3.125,
+    "dec_us": 3.166
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 148,
+    "enc_us": 3.33,
+    "dec_us": 3.163
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 149,
+    "enc_us": 3.214,
+    "dec_us": 3.098
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 150,
+    "enc_us": 4.784,
+    "dec_us": 3.299
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 151,
+    "enc_us": 3.161,
+    "dec_us": 3.252
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 152,
+    "enc_us": 3.112,
+    "dec_us": 3.201
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 153,
+    "enc_us": 3.497,
+    "dec_us": 3.204
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 154,
+    "enc_us": 3.265,
+    "dec_us": 3.409
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 155,
+    "enc_us": 3.328,
+    "dec_us": 3.187
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 156,
+    "enc_us": 3.194,
+    "dec_us": 3.227
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 157,
+    "enc_us": 3.147,
+    "dec_us": 3.168
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 158,
+    "enc_us": 3.053,
+    "dec_us": 3.239
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 159,
+    "enc_us": 3.168,
+    "dec_us": 3.2
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 160,
+    "enc_us": 137.346,
+    "dec_us": 5.21
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 161,
+    "enc_us": 3.354,
+    "dec_us": 3.36
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 162,
+    "enc_us": 3.505,
+    "dec_us": 3.18
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 163,
+    "enc_us": 3.329,
+    "dec_us": 3.23
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 164,
+    "enc_us": 18.058,
+    "dec_us": 4.013
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 165,
+    "enc_us": 3.34,
+    "dec_us": 3.389
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 166,
+    "enc_us": 17.287,
+    "dec_us": 3.438
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 167,
+    "enc_us": 3.183,
+    "dec_us": 3.151
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 168,
+    "enc_us": 3.104,
+    "dec_us": 3.436
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 169,
+    "enc_us": 3.626,
+    "dec_us": 3.359
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 170,
+    "enc_us": 3.341,
+    "dec_us": 3.129
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 171,
+    "enc_us": 3.126,
+    "dec_us": 3.154
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 172,
+    "enc_us": 3.124,
+    "dec_us": 3.122
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 173,
+    "enc_us": 3.097,
+    "dec_us": 3.188
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 174,
+    "enc_us": 3.155,
+    "dec_us": 3.185
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 175,
+    "enc_us": 3.24,
+    "dec_us": 7.316
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 176,
+    "enc_us": 146.588,
+    "dec_us": 6.417
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 177,
+    "enc_us": 3.82,
+    "dec_us": 3.559
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 178,
+    "enc_us": 3.247,
+    "dec_us": 3.269
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 179,
+    "enc_us": 3.101,
+    "dec_us": 3.222
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 180,
+    "enc_us": 3.138,
+    "dec_us": 3.202
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 181,
+    "enc_us": 3.214,
+    "dec_us": 3.347
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 182,
+    "enc_us": 3.32,
+    "dec_us": 3.245
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 183,
+    "enc_us": 58.426,
+    "dec_us": 6.571
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 184,
+    "enc_us": 4.816,
+    "dec_us": 4.897
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 185,
+    "enc_us": 5.794,
+    "dec_us": 417.256
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 186,
+    "enc_us": 5.403,
+    "dec_us": 3.865
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 187,
+    "enc_us": 3.212,
+    "dec_us": 3.248
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 188,
+    "enc_us": 3.28,
+    "dec_us": 3.25
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 189,
+    "enc_us": 3.363,
+    "dec_us": 3.477
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 190,
+    "enc_us": 3.105,
+    "dec_us": 3.234
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 191,
+    "enc_us": 3.201,
+    "dec_us": 3.166
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 192,
+    "enc_us": 3.464,
+    "dec_us": 3.228
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 193,
+    "enc_us": 3.228,
+    "dec_us": 3.32
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 194,
+    "enc_us": 3.327,
+    "dec_us": 3.216
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 195,
+    "enc_us": 24.887,
+    "dec_us": 3.933
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 196,
+    "enc_us": 3.509,
+    "dec_us": 3.437
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 197,
+    "enc_us": 3.242,
+    "dec_us": 3.296
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 198,
+    "enc_us": 3.547,
+    "dec_us": 3.405
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 20,
+    "trial": 199,
+    "enc_us": 3.183,
+    "dec_us": 3.172
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 0,
+    "enc_us": 23.626,
+    "dec_us": 23.693
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 1,
+    "enc_us": 23.898,
+    "dec_us": 23.727
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 2,
+    "enc_us": 29.439,
+    "dec_us": 130.022
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 3,
+    "enc_us": 25.432,
+    "dec_us": 23.991
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 4,
+    "enc_us": 23.83,
+    "dec_us": 23.572
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 5,
+    "enc_us": 23.952,
+    "dec_us": 23.7
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 6,
+    "enc_us": 144.388,
+    "dec_us": 26.063
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 7,
+    "enc_us": 116.245,
+    "dec_us": 26.109
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 8,
+    "enc_us": 24.838,
+    "dec_us": 71.233
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 9,
+    "enc_us": 25.088,
+    "dec_us": 24.199
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 10,
+    "enc_us": 23.807,
+    "dec_us": 23.685
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 11,
+    "enc_us": 102.793,
+    "dec_us": 24.977
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 12,
+    "enc_us": 24.007,
+    "dec_us": 23.921
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 13,
+    "enc_us": 24.121,
+    "dec_us": 62.03
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 14,
+    "enc_us": 27.566,
+    "dec_us": 23.856
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 15,
+    "enc_us": 23.793,
+    "dec_us": 23.817
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 16,
+    "enc_us": 23.574,
+    "dec_us": 23.708
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 17,
+    "enc_us": 23.848,
+    "dec_us": 327.825
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 18,
+    "enc_us": 35.997,
+    "dec_us": 46.178
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 19,
+    "enc_us": 25.708,
+    "dec_us": 23.956
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 20,
+    "enc_us": 23.749,
+    "dec_us": 23.749
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 21,
+    "enc_us": 23.799,
+    "dec_us": 23.874
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 22,
+    "enc_us": 23.991,
+    "dec_us": 23.723
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 23,
+    "enc_us": 24.458,
+    "dec_us": 70.004
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 24,
+    "enc_us": 25.632,
+    "dec_us": 23.759
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 25,
+    "enc_us": 37.896,
+    "dec_us": 24.248
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 26,
+    "enc_us": 23.864,
+    "dec_us": 86.95
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 27,
+    "enc_us": 24.734,
+    "dec_us": 51.007
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 28,
+    "enc_us": 24.769,
+    "dec_us": 23.852
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 29,
+    "enc_us": 23.907,
+    "dec_us": 23.712
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 30,
+    "enc_us": 23.841,
+    "dec_us": 23.743
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 31,
+    "enc_us": 23.645,
+    "dec_us": 23.699
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 32,
+    "enc_us": 46.6,
+    "dec_us": 24.692
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 33,
+    "enc_us": 23.677,
+    "dec_us": 23.623
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 34,
+    "enc_us": 23.518,
+    "dec_us": 23.582
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 35,
+    "enc_us": 23.541,
+    "dec_us": 23.468
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 36,
+    "enc_us": 23.485,
+    "dec_us": 23.704
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 37,
+    "enc_us": 23.922,
+    "dec_us": 23.76
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 38,
+    "enc_us": 23.531,
+    "dec_us": 23.73
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 39,
+    "enc_us": 23.611,
+    "dec_us": 23.48
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 40,
+    "enc_us": 23.48,
+    "dec_us": 23.645
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 41,
+    "enc_us": 23.637,
+    "dec_us": 23.55
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 42,
+    "enc_us": 23.639,
+    "dec_us": 23.685
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 43,
+    "enc_us": 27.605,
+    "dec_us": 24.533
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 44,
+    "enc_us": 23.814,
+    "dec_us": 23.531
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 45,
+    "enc_us": 31.31,
+    "dec_us": 123.942
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 46,
+    "enc_us": 24.662,
+    "dec_us": 24.145
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 47,
+    "enc_us": 23.605,
+    "dec_us": 23.779
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 48,
+    "enc_us": 23.771,
+    "dec_us": 24.052
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 49,
+    "enc_us": 24.103,
+    "dec_us": 23.759
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 50,
+    "enc_us": 23.605,
+    "dec_us": 29.691
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 51,
+    "enc_us": 109.187,
+    "dec_us": 24.723
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 52,
+    "enc_us": 23.954,
+    "dec_us": 24.013
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 53,
+    "enc_us": 23.653,
+    "dec_us": 23.922
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 54,
+    "enc_us": 23.658,
+    "dec_us": 23.823
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 55,
+    "enc_us": 23.612,
+    "dec_us": 26.503
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 56,
+    "enc_us": 138.468,
+    "dec_us": 25.334
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 57,
+    "enc_us": 41.883,
+    "dec_us": 24.434
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 58,
+    "enc_us": 23.503,
+    "dec_us": 24.043
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 59,
+    "enc_us": 23.488,
+    "dec_us": 28.177
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 60,
+    "enc_us": 25.92,
+    "dec_us": 23.98
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 61,
+    "enc_us": 25.391,
+    "dec_us": 76.911
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 62,
+    "enc_us": 24.727,
+    "dec_us": 23.682
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 63,
+    "enc_us": 23.701,
+    "dec_us": 23.909
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 64,
+    "enc_us": 23.813,
+    "dec_us": 23.583
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 65,
+    "enc_us": 23.668,
+    "dec_us": 23.711
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 66,
+    "enc_us": 23.615,
+    "dec_us": 23.715
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 67,
+    "enc_us": 23.449,
+    "dec_us": 23.831
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 68,
+    "enc_us": 23.853,
+    "dec_us": 23.907
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 69,
+    "enc_us": 23.727,
+    "dec_us": 23.698
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 70,
+    "enc_us": 23.788,
+    "dec_us": 23.776
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 71,
+    "enc_us": 23.538,
+    "dec_us": 23.856
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 72,
+    "enc_us": 23.593,
+    "dec_us": 23.626
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 73,
+    "enc_us": 23.468,
+    "dec_us": 23.745
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 74,
+    "enc_us": 190.574,
+    "dec_us": 26.7
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 75,
+    "enc_us": 23.814,
+    "dec_us": 23.735
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 76,
+    "enc_us": 23.549,
+    "dec_us": 23.582
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 77,
+    "enc_us": 29.565,
+    "dec_us": 76.13
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 78,
+    "enc_us": 24.576,
+    "dec_us": 23.815
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 79,
+    "enc_us": 23.703,
+    "dec_us": 24.076
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 80,
+    "enc_us": 23.591,
+    "dec_us": 23.857
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 81,
+    "enc_us": 23.753,
+    "dec_us": 23.625
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 82,
+    "enc_us": 23.72,
+    "dec_us": 287.808
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 83,
+    "enc_us": 28.196,
+    "dec_us": 24.713
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 84,
+    "enc_us": 84.987,
+    "dec_us": 31.792
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 85,
+    "enc_us": 48.062,
+    "dec_us": 24.868
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 86,
+    "enc_us": 23.76,
+    "dec_us": 23.578
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 87,
+    "enc_us": 23.454,
+    "dec_us": 23.793
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 88,
+    "enc_us": 25.447,
+    "dec_us": 23.866
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 89,
+    "enc_us": 47.48,
+    "dec_us": 24.863
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 90,
+    "enc_us": 23.809,
+    "dec_us": 23.812
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 91,
+    "enc_us": 23.825,
+    "dec_us": 23.628
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 92,
+    "enc_us": 23.582,
+    "dec_us": 23.829
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 93,
+    "enc_us": 23.711,
+    "dec_us": 23.653
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 94,
+    "enc_us": 24.113,
+    "dec_us": 23.629
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 95,
+    "enc_us": 23.526,
+    "dec_us": 165.868
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 96,
+    "enc_us": 31.831,
+    "dec_us": 23.957
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 97,
+    "enc_us": 23.605,
+    "dec_us": 23.741
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 98,
+    "enc_us": 23.757,
+    "dec_us": 23.664
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 99,
+    "enc_us": 23.706,
+    "dec_us": 23.488
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 100,
+    "enc_us": 23.575,
+    "dec_us": 23.609
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 101,
+    "enc_us": 45.355,
+    "dec_us": 24.761
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 102,
+    "enc_us": 33.065,
+    "dec_us": 25.869
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 103,
+    "enc_us": 24.307,
+    "dec_us": 23.778
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 104,
+    "enc_us": 23.766,
+    "dec_us": 23.635
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 105,
+    "enc_us": 23.996,
+    "dec_us": 23.668
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 106,
+    "enc_us": 23.476,
+    "dec_us": 23.703
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 107,
+    "enc_us": 23.546,
+    "dec_us": 23.808
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 108,
+    "enc_us": 23.881,
+    "dec_us": 23.682
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 109,
+    "enc_us": 23.485,
+    "dec_us": 23.738
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 110,
+    "enc_us": 306.792,
+    "dec_us": 40.319
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 111,
+    "enc_us": 24.92,
+    "dec_us": 23.889
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 112,
+    "enc_us": 23.728,
+    "dec_us": 23.921
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 113,
+    "enc_us": 23.732,
+    "dec_us": 23.689
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 114,
+    "enc_us": 24.16,
+    "dec_us": 52.423
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 115,
+    "enc_us": 24.814,
+    "dec_us": 23.966
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 116,
+    "enc_us": 23.662,
+    "dec_us": 24.001
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 117,
+    "enc_us": 23.929,
+    "dec_us": 23.896
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 118,
+    "enc_us": 23.735,
+    "dec_us": 23.898
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 119,
+    "enc_us": 23.571,
+    "dec_us": 23.666
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 120,
+    "enc_us": 23.808,
+    "dec_us": 23.746
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 121,
+    "enc_us": 23.766,
+    "dec_us": 23.579
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 122,
+    "enc_us": 23.55,
+    "dec_us": 23.933
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 123,
+    "enc_us": 23.392,
+    "dec_us": 23.543
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 124,
+    "enc_us": 25.288,
+    "dec_us": 175.614
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 125,
+    "enc_us": 26.039,
+    "dec_us": 39.472
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 126,
+    "enc_us": 24.588,
+    "dec_us": 23.922
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 127,
+    "enc_us": 23.642,
+    "dec_us": 23.736
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 128,
+    "enc_us": 30.325,
+    "dec_us": 198.087
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 129,
+    "enc_us": 24.423,
+    "dec_us": 23.851
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 130,
+    "enc_us": 23.669,
+    "dec_us": 23.828
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 131,
+    "enc_us": 23.71,
+    "dec_us": 23.772
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 132,
+    "enc_us": 23.637,
+    "dec_us": 23.515
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 133,
+    "enc_us": 23.855,
+    "dec_us": 23.631
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 134,
+    "enc_us": 23.5,
+    "dec_us": 23.909
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 135,
+    "enc_us": 23.662,
+    "dec_us": 31.487
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 136,
+    "enc_us": 182.224,
+    "dec_us": 26.505
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 137,
+    "enc_us": 24.008,
+    "dec_us": 23.562
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 138,
+    "enc_us": 23.577,
+    "dec_us": 23.773
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 139,
+    "enc_us": 23.598,
+    "dec_us": 23.654
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 140,
+    "enc_us": 23.535,
+    "dec_us": 23.664
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 141,
+    "enc_us": 240.717,
+    "dec_us": 27.198
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 142,
+    "enc_us": 23.926,
+    "dec_us": 23.689
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 143,
+    "enc_us": 23.585,
+    "dec_us": 23.635
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 144,
+    "enc_us": 46.847,
+    "dec_us": 24.753
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 145,
+    "enc_us": 23.797,
+    "dec_us": 23.566
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 146,
+    "enc_us": 23.585,
+    "dec_us": 23.846
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 147,
+    "enc_us": 23.752,
+    "dec_us": 98.149
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 148,
+    "enc_us": 25.237,
+    "dec_us": 23.959
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 149,
+    "enc_us": 23.548,
+    "dec_us": 23.638
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 150,
+    "enc_us": 23.692,
+    "dec_us": 23.728
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 151,
+    "enc_us": 23.588,
+    "dec_us": 23.764
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 152,
+    "enc_us": 25.244,
+    "dec_us": 23.902
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 153,
+    "enc_us": 23.595,
+    "dec_us": 23.52
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 154,
+    "enc_us": 23.602,
+    "dec_us": 23.65
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 155,
+    "enc_us": 23.564,
+    "dec_us": 23.512
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 156,
+    "enc_us": 23.804,
+    "dec_us": 23.864
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 157,
+    "enc_us": 40.918,
+    "dec_us": 24.675
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 158,
+    "enc_us": 23.627,
+    "dec_us": 23.737
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 159,
+    "enc_us": 23.554,
+    "dec_us": 23.595
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 160,
+    "enc_us": 23.568,
+    "dec_us": 24.05
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 161,
+    "enc_us": 23.951,
+    "dec_us": 23.677
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 162,
+    "enc_us": 23.575,
+    "dec_us": 23.445
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 163,
+    "enc_us": 23.566,
+    "dec_us": 23.55
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 164,
+    "enc_us": 23.622,
+    "dec_us": 23.635
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 165,
+    "enc_us": 23.534,
+    "dec_us": 28.199
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 166,
+    "enc_us": 149.021,
+    "dec_us": 26.074
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 167,
+    "enc_us": 24.176,
+    "dec_us": 23.988
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 168,
+    "enc_us": 126.764,
+    "dec_us": 26.07
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 169,
+    "enc_us": 23.798,
+    "dec_us": 23.555
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 170,
+    "enc_us": 24.107,
+    "dec_us": 23.605
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 171,
+    "enc_us": 23.624,
+    "dec_us": 23.565
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 172,
+    "enc_us": 23.733,
+    "dec_us": 103.849
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 173,
+    "enc_us": 99.182,
+    "dec_us": 24.75
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 174,
+    "enc_us": 23.647,
+    "dec_us": 23.462
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 175,
+    "enc_us": 23.893,
+    "dec_us": 23.67
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 176,
+    "enc_us": 23.748,
+    "dec_us": 23.666
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 177,
+    "enc_us": 23.912,
+    "dec_us": 287.662
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 178,
+    "enc_us": 26.039,
+    "dec_us": 24.373
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 179,
+    "enc_us": 24.074,
+    "dec_us": 24.117
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 180,
+    "enc_us": 23.973,
+    "dec_us": 23.718
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 181,
+    "enc_us": 23.925,
+    "dec_us": 23.548
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 182,
+    "enc_us": 23.754,
+    "dec_us": 23.552
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 183,
+    "enc_us": 23.585,
+    "dec_us": 56.619
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 184,
+    "enc_us": 24.637,
+    "dec_us": 23.847
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 185,
+    "enc_us": 23.586,
+    "dec_us": 23.847
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 186,
+    "enc_us": 23.756,
+    "dec_us": 23.969
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 187,
+    "enc_us": 23.84,
+    "dec_us": 23.526
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 188,
+    "enc_us": 26.482,
+    "dec_us": 24.449
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 189,
+    "enc_us": 23.929,
+    "dec_us": 23.666
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 190,
+    "enc_us": 23.994,
+    "dec_us": 23.979
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 191,
+    "enc_us": 1391.113,
+    "dec_us": 31.63
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 192,
+    "enc_us": 25.362,
+    "dec_us": 23.87
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 193,
+    "enc_us": 37.746,
+    "dec_us": 24.82
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 194,
+    "enc_us": 23.688,
+    "dec_us": 288.231
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 195,
+    "enc_us": 25.625,
+    "dec_us": 24.035
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 196,
+    "enc_us": 23.871,
+    "dec_us": 23.61
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 197,
+    "enc_us": 23.571,
+    "dec_us": 23.522
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 198,
+    "enc_us": 23.953,
+    "dec_us": 23.725
+  },
+  {
+    "cipher": "caalc",
+    "frame_ms": 40,
+    "trial": 199,
+    "enc_us": 24.209,
+    "dec_us": 23.777
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 0,
+    "enc_us": 4.578,
+    "dec_us": 4.413
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 1,
+    "enc_us": 4.399,
+    "dec_us": 4.531
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 2,
+    "enc_us": 4.567,
+    "dec_us": 4.419
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 3,
+    "enc_us": 4.312,
+    "dec_us": 4.415
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 4,
+    "enc_us": 4.331,
+    "dec_us": 4.405
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 5,
+    "enc_us": 4.378,
+    "dec_us": 4.455
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 6,
+    "enc_us": 4.435,
+    "dec_us": 4.297
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 7,
+    "enc_us": 4.435,
+    "dec_us": 4.395
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 8,
+    "enc_us": 4.271,
+    "dec_us": 4.414
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 9,
+    "enc_us": 4.552,
+    "dec_us": 4.386
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 10,
+    "enc_us": 4.76,
+    "dec_us": 4.316
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 11,
+    "enc_us": 4.364,
+    "dec_us": 4.397
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 12,
+    "enc_us": 19.957,
+    "dec_us": 5.284
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 13,
+    "enc_us": 4.54,
+    "dec_us": 4.508
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 14,
+    "enc_us": 4.405,
+    "dec_us": 4.41
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 15,
+    "enc_us": 4.581,
+    "dec_us": 4.301
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 16,
+    "enc_us": 4.398,
+    "dec_us": 4.319
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 17,
+    "enc_us": 4.335,
+    "dec_us": 4.393
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 18,
+    "enc_us": 4.198,
+    "dec_us": 4.377
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 19,
+    "enc_us": 4.251,
+    "dec_us": 4.265
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 20,
+    "enc_us": 4.234,
+    "dec_us": 4.354
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 21,
+    "enc_us": 4.242,
+    "dec_us": 4.375
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 22,
+    "enc_us": 4.297,
+    "dec_us": 4.21
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 23,
+    "enc_us": 4.354,
+    "dec_us": 4.421
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 24,
+    "enc_us": 4.246,
+    "dec_us": 8.707
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 25,
+    "enc_us": 4.186,
+    "dec_us": 4.501
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 26,
+    "enc_us": 4.198,
+    "dec_us": 4.254
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 27,
+    "enc_us": 4.323,
+    "dec_us": 4.248
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 28,
+    "enc_us": 4.172,
+    "dec_us": 4.293
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 29,
+    "enc_us": 4.288,
+    "dec_us": 4.282
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 30,
+    "enc_us": 15.289,
+    "dec_us": 4.99
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 31,
+    "enc_us": 4.318,
+    "dec_us": 34.519
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 32,
+    "enc_us": 9.738,
+    "dec_us": 5.427
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 33,
+    "enc_us": 4.61,
+    "dec_us": 4.584
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 34,
+    "enc_us": 4.442,
+    "dec_us": 4.272
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 35,
+    "enc_us": 4.333,
+    "dec_us": 4.225
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 36,
+    "enc_us": 4.291,
+    "dec_us": 4.394
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 37,
+    "enc_us": 4.322,
+    "dec_us": 4.429
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 38,
+    "enc_us": 4.676,
+    "dec_us": 4.471
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 39,
+    "enc_us": 4.775,
+    "dec_us": 4.321
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 40,
+    "enc_us": 4.598,
+    "dec_us": 4.495
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 41,
+    "enc_us": 4.293,
+    "dec_us": 4.43
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 42,
+    "enc_us": 4.809,
+    "dec_us": 4.343
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 43,
+    "enc_us": 4.275,
+    "dec_us": 4.206
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 44,
+    "enc_us": 4.399,
+    "dec_us": 4.285
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 45,
+    "enc_us": 21.378,
+    "dec_us": 5.325
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 46,
+    "enc_us": 4.396,
+    "dec_us": 4.531
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 47,
+    "enc_us": 4.475,
+    "dec_us": 4.328
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 48,
+    "enc_us": 4.3,
+    "dec_us": 4.308
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 49,
+    "enc_us": 4.236,
+    "dec_us": 4.331
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 50,
+    "enc_us": 4.212,
+    "dec_us": 4.232
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 51,
+    "enc_us": 4.174,
+    "dec_us": 4.219
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 52,
+    "enc_us": 4.239,
+    "dec_us": 4.19
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 53,
+    "enc_us": 4.194,
+    "dec_us": 4.331
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 54,
+    "enc_us": 4.291,
+    "dec_us": 4.209
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 55,
+    "enc_us": 4.21,
+    "dec_us": 4.232
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 56,
+    "enc_us": 4.186,
+    "dec_us": 4.308
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 57,
+    "enc_us": 4.116,
+    "dec_us": 4.342
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 58,
+    "enc_us": 4.2,
+    "dec_us": 4.281
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 59,
+    "enc_us": 4.252,
+    "dec_us": 4.69
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 60,
+    "enc_us": 4.505,
+    "dec_us": 4.417
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 61,
+    "enc_us": 4.269,
+    "dec_us": 4.29
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 62,
+    "enc_us": 4.436,
+    "dec_us": 4.182
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 63,
+    "enc_us": 4.716,
+    "dec_us": 4.439
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 64,
+    "enc_us": 4.338,
+    "dec_us": 4.337
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 65,
+    "enc_us": 4.263,
+    "dec_us": 4.246
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 66,
+    "enc_us": 4.554,
+    "dec_us": 4.242
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 67,
+    "enc_us": 4.177,
+    "dec_us": 4.297
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 68,
+    "enc_us": 4.3,
+    "dec_us": 4.244
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 69,
+    "enc_us": 4.226,
+    "dec_us": 4.294
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 70,
+    "enc_us": 4.17,
+    "dec_us": 4.216
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 71,
+    "enc_us": 4.364,
+    "dec_us": 4.199
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 72,
+    "enc_us": 4.291,
+    "dec_us": 4.277
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 73,
+    "enc_us": 4.321,
+    "dec_us": 4.288
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 74,
+    "enc_us": 4.229,
+    "dec_us": 4.21
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 75,
+    "enc_us": 4.196,
+    "dec_us": 4.237
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 76,
+    "enc_us": 6.02,
+    "dec_us": 4.443
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 77,
+    "enc_us": 18.314,
+    "dec_us": 5.094
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 78,
+    "enc_us": 4.381,
+    "dec_us": 4.508
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 79,
+    "enc_us": 4.25,
+    "dec_us": 4.24
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 80,
+    "enc_us": 4.372,
+    "dec_us": 4.14
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 81,
+    "enc_us": 4.345,
+    "dec_us": 4.369
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 82,
+    "enc_us": 4.197,
+    "dec_us": 4.173
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 83,
+    "enc_us": 4.288,
+    "dec_us": 4.164
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 84,
+    "enc_us": 4.247,
+    "dec_us": 4.233
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 85,
+    "enc_us": 4.346,
+    "dec_us": 4.282
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 86,
+    "enc_us": 36.786,
+    "dec_us": 5.583
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 87,
+    "enc_us": 4.43,
+    "dec_us": 4.41
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 88,
+    "enc_us": 4.527,
+    "dec_us": 4.391
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 89,
+    "enc_us": 4.298,
+    "dec_us": 4.335
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 90,
+    "enc_us": 4.321,
+    "dec_us": 4.23
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 91,
+    "enc_us": 4.334,
+    "dec_us": 4.326
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 92,
+    "enc_us": 4.391,
+    "dec_us": 4.228
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 93,
+    "enc_us": 4.338,
+    "dec_us": 4.279
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 94,
+    "enc_us": 4.289,
+    "dec_us": 38.952
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 95,
+    "enc_us": 5.332,
+    "dec_us": 4.46
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 96,
+    "enc_us": 4.526,
+    "dec_us": 4.436
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 97,
+    "enc_us": 4.459,
+    "dec_us": 4.435
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 98,
+    "enc_us": 4.239,
+    "dec_us": 4.257
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 99,
+    "enc_us": 4.307,
+    "dec_us": 4.292
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 100,
+    "enc_us": 4.2,
+    "dec_us": 4.186
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 101,
+    "enc_us": 4.237,
+    "dec_us": 4.316
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 102,
+    "enc_us": 4.256,
+    "dec_us": 4.281
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 103,
+    "enc_us": 4.296,
+    "dec_us": 4.302
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 104,
+    "enc_us": 4.321,
+    "dec_us": 4.317
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 105,
+    "enc_us": 4.229,
+    "dec_us": 4.299
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 106,
+    "enc_us": 4.269,
+    "dec_us": 4.202
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 107,
+    "enc_us": 4.354,
+    "dec_us": 4.257
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 108,
+    "enc_us": 6.08,
+    "dec_us": 4.484
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 109,
+    "enc_us": 19.389,
+    "dec_us": 4.894
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 110,
+    "enc_us": 4.396,
+    "dec_us": 4.478
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 111,
+    "enc_us": 4.309,
+    "dec_us": 4.27
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 112,
+    "enc_us": 4.209,
+    "dec_us": 26.671
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 113,
+    "enc_us": 5.238,
+    "dec_us": 4.745
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 114,
+    "enc_us": 4.305,
+    "dec_us": 4.328
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 115,
+    "enc_us": 4.508,
+    "dec_us": 4.301
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 116,
+    "enc_us": 4.423,
+    "dec_us": 4.317
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 117,
+    "enc_us": 4.209,
+    "dec_us": 4.388
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 118,
+    "enc_us": 4.25,
+    "dec_us": 4.511
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 119,
+    "enc_us": 4.184,
+    "dec_us": 4.237
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 120,
+    "enc_us": 4.28,
+    "dec_us": 4.453
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 121,
+    "enc_us": 4.373,
+    "dec_us": 4.23
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 122,
+    "enc_us": 4.188,
+    "dec_us": 4.198
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 123,
+    "enc_us": 4.099,
+    "dec_us": 4.278
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 124,
+    "enc_us": 4.177,
+    "dec_us": 4.173
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 125,
+    "enc_us": 4.266,
+    "dec_us": 4.237
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 126,
+    "enc_us": 4.219,
+    "dec_us": 4.173
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 127,
+    "enc_us": 4.155,
+    "dec_us": 4.305
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 128,
+    "enc_us": 4.228,
+    "dec_us": 4.216
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 129,
+    "enc_us": 4.194,
+    "dec_us": 4.377
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 130,
+    "enc_us": 4.231,
+    "dec_us": 20.962
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 131,
+    "enc_us": 5.214,
+    "dec_us": 4.378
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 132,
+    "enc_us": 4.509,
+    "dec_us": 4.275
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 133,
+    "enc_us": 4.496,
+    "dec_us": 4.491
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 134,
+    "enc_us": 4.309,
+    "dec_us": 4.229
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 135,
+    "enc_us": 4.347,
+    "dec_us": 4.227
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 136,
+    "enc_us": 4.303,
+    "dec_us": 4.324
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 137,
+    "enc_us": 4.296,
+    "dec_us": 4.261
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 138,
+    "enc_us": 4.233,
+    "dec_us": 4.294
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 139,
+    "enc_us": 4.382,
+    "dec_us": 4.342
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 140,
+    "enc_us": 6.112,
+    "dec_us": 4.531
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 141,
+    "enc_us": 18.586,
+    "dec_us": 5.026
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 142,
+    "enc_us": 4.336,
+    "dec_us": 4.459
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 143,
+    "enc_us": 4.311,
+    "dec_us": 4.305
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 144,
+    "enc_us": 4.266,
+    "dec_us": 4.228
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 145,
+    "enc_us": 4.609,
+    "dec_us": 4.392
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 146,
+    "enc_us": 4.324,
+    "dec_us": 4.38
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 147,
+    "enc_us": 4.621,
+    "dec_us": 4.485
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 148,
+    "enc_us": 4.556,
+    "dec_us": 4.453
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 149,
+    "enc_us": 4.511,
+    "dec_us": 4.316
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 150,
+    "enc_us": 4.415,
+    "dec_us": 4.377
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 151,
+    "enc_us": 4.464,
+    "dec_us": 4.402
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 152,
+    "enc_us": 41.805,
+    "dec_us": 35.024
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 153,
+    "enc_us": 4.802,
+    "dec_us": 4.77
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 154,
+    "enc_us": 4.384,
+    "dec_us": 4.267
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 155,
+    "enc_us": 4.722,
+    "dec_us": 4.404
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 156,
+    "enc_us": 4.465,
+    "dec_us": 4.202
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 157,
+    "enc_us": 4.121,
+    "dec_us": 4.217
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 158,
+    "enc_us": 4.265,
+    "dec_us": 4.227
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 159,
+    "enc_us": 4.237,
+    "dec_us": 4.325
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 160,
+    "enc_us": 8.795,
+    "dec_us": 4.215
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 161,
+    "enc_us": 4.361,
+    "dec_us": 4.162
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 162,
+    "enc_us": 4.174,
+    "dec_us": 4.285
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 163,
+    "enc_us": 4.333,
+    "dec_us": 4.23
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 164,
+    "enc_us": 4.606,
+    "dec_us": 4.143
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 165,
+    "enc_us": 4.326,
+    "dec_us": 4.253
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 166,
+    "enc_us": 4.365,
+    "dec_us": 4.255
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 167,
+    "enc_us": 4.328,
+    "dec_us": 4.314
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 168,
+    "enc_us": 4.507,
+    "dec_us": 8.912
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 169,
+    "enc_us": 8.126,
+    "dec_us": 302.122
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 170,
+    "enc_us": 6.194,
+    "dec_us": 4.902
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 171,
+    "enc_us": 4.393,
+    "dec_us": 4.668
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 172,
+    "enc_us": 4.265,
+    "dec_us": 4.267
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 173,
+    "enc_us": 4.455,
+    "dec_us": 4.144
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 174,
+    "enc_us": 4.268,
+    "dec_us": 4.187
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 175,
+    "enc_us": 4.231,
+    "dec_us": 4.164
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 176,
+    "enc_us": 25.134,
+    "dec_us": 4.913
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 177,
+    "enc_us": 4.361,
+    "dec_us": 4.307
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 178,
+    "enc_us": 4.206,
+    "dec_us": 4.422
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 179,
+    "enc_us": 4.206,
+    "dec_us": 4.269
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 180,
+    "enc_us": 4.262,
+    "dec_us": 4.282
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 181,
+    "enc_us": 4.414,
+    "dec_us": 4.286
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 182,
+    "enc_us": 4.328,
+    "dec_us": 4.138
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 183,
+    "enc_us": 4.248,
+    "dec_us": 4.243
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 184,
+    "enc_us": 4.336,
+    "dec_us": 4.273
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 185,
+    "enc_us": 4.576,
+    "dec_us": 4.337
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 186,
+    "enc_us": 4.51,
+    "dec_us": 4.214
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 187,
+    "enc_us": 4.288,
+    "dec_us": 4.22
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 188,
+    "enc_us": 4.342,
+    "dec_us": 4.235
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 189,
+    "enc_us": 4.636,
+    "dec_us": 4.372
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 190,
+    "enc_us": 6.091,
+    "dec_us": 4.29
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 191,
+    "enc_us": 4.542,
+    "dec_us": 4.371
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 192,
+    "enc_us": 4.305,
+    "dec_us": 4.302
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 193,
+    "enc_us": 4.514,
+    "dec_us": 4.385
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 194,
+    "enc_us": 4.359,
+    "dec_us": 4.31
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 195,
+    "enc_us": 4.225,
+    "dec_us": 4.26
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 196,
+    "enc_us": 4.687,
+    "dec_us": 4.283
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 197,
+    "enc_us": 4.447,
+    "dec_us": 4.323
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 198,
+    "enc_us": 4.967,
+    "dec_us": 9.933
+  },
+  {
+    "cipher": "ascon",
+    "frame_ms": 40,
+    "trial": 199,
+    "enc_us": 55.355,
+    "dec_us": 5.651
+  }
+]

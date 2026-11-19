@@ -1,0 +1,5 @@
+caalc_core.h:13:20:void caalc::perm(uint32_t*, bool)	112	static
+caalc_core.h:27:20:0(const uint8_t*, const uint8_t*, const uint8_t*, size_t, const uint8_t*, size_t, uint8_t*, uint8_t*, bool)	272	static
+native.cpp:3:6:void caalc_permute(uint32_t*, int)	8	static
+native.cpp:4:5:int crypto_aead_encrypt(unsigned char*, long long unsigned int*, const unsigned char*, long long unsigned int, const unsigned char*, long long unsigned int, const unsigned char*, const unsigned char*, const unsigned char*)	64	dynamic,bounded
+native.cpp:8:5:int crypto_aead_decrypt(unsigned char*, long long unsigned int*, unsigned char*, const unsigned char*, long long unsigned int, const unsigned char*, long long unsigned int, const unsigned char*, const unsigned char*)	112	dynamic,bounded

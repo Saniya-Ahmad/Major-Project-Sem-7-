@@ -1,0 +1,16 @@
+{
+  "seed": 123,
+  "loss_probability": 0.1,
+  "max_injected_jitter_ms": 15,
+  "frames": 100,
+  "received": 91,
+  "concealed_frames": 9,
+  "late_frames": 0,
+  "quality": {
+    "MSE": 5105405.444375,
+    "PSNR_dB": 23.228696327496245,
+    "SNR_dB": 11.345322984386586,
+    "exact_sample_fraction": 0.9101875,
+    "samples": 16000
+  }
+}

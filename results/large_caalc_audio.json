@@ -1,0 +1,8 @@
+{
+  "pcm_bytes": 1048576,
+  "duration_seconds": 65.536,
+  "frame_ms": 40,
+  "exact_recovery": true,
+  "encrypt_seconds": 40.929976914000235,
+  "decrypt_seconds": 22.518691216000207
+}

@@ -1,0 +1,23 @@
+[
+  [
+    "g++",
+    "-O2",
+    "-shared",
+    "-fPIC",
+    "-std=c++11",
+    "/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/native.cpp",
+    "-o",
+    "/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/build/libcaalc.so"
+  ],
+  [
+    "gcc",
+    "-O2",
+    "-shared",
+    "-fPIC",
+    "-I/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/vendor/ascon",
+    "/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/vendor/ascon/aead.c",
+    "/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/vendor/ascon/printstate.c",
+    "-o",
+    "/workspace/scratch/0c4aa1ec0c2a/CAALC128_Project/build/libascon.so"
+  ]
+]

@@ -1,0 +1,27 @@
+{
+  "seed": 128,
+  "trials": 128,
+  "avalanche_mean": 0.4956461588541667,
+  "avalanche_min": 0.4401041666666667,
+  "avalanche_max": 0.5520833333333334,
+  "key_sensitivity_mean": 0.500628662109375,
+  "diffusion_by_round": {
+    "1": 0.008056640625,
+    "2": 0.01953125,
+    "4": 0.08968098958333333,
+    "8": 0.4093221028645833,
+    "12": 0.50469970703125,
+    "24": 0.4956461588541667
+  },
+  "duplicate_sampled_output_differences": 0,
+  "repeated_word_output_distinct_words": [
+    12,
+    12,
+    12,
+    12,
+    12
+  ],
+  "rotation_equivariance_matches_of_32": 0,
+  "ciphertext_byte_entropy_65536": 7.997022369720881,
+  "warning": "Screening only; not differential bounds, security proof, or comprehensive cryptanalysis."
+}

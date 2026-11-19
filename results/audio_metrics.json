@@ -1,0 +1,7 @@
+{
+  "MSE": 0.0,
+  "PSNR_dB": "inf",
+  "SNR_dB": "inf",
+  "exact_sample_fraction": 1.0,
+  "samples": 16000
+}
